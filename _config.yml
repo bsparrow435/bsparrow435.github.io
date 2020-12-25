@@ -42,11 +42,11 @@ social-links:
     url-pattern: __USERNAME__.etsy.com
   
   - name: sms
-    url-scheme: 'sms:'
-    url-pattern: '__USERNAME__?body=Hi%20Courtney!%20Humble%20Pie%20Signs%20look%20amazing%20'
+    url-scheme: sms:
+    url-pattern: __USERNAME__?body=Hi%20Courtney!%20Your%20signs%20look%20amazing!
     icon-class: fas fa-2x fa-sms
 
   - name: email
-    url-scheme: 'mailto:'
-    url-pattern: '__USERNAME__'
+    url-scheme: mailto:
+    url-pattern: __USERNAME__
     icon-class: far fa-2x fa-envelope-open
