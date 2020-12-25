@@ -12,14 +12,14 @@ background: 'il_1140xN.2616547519_ngcv.jpg'
 favicon: 'isla_280x280_44770865_3kwx446q_zPY_icon.ico'
 
 # Online profiles
-facebook: 'courtney.hannon.946'
-instagram: 'humblepiesigns'
-pinterest: 'chann89'
-etsy: 'humblepiesigns'
-email: 'humblepiesigns@gmail.com'
-sms: '301-536-1049'
+Facebook: 'courtney.hannon.946'
+Instagram: 'humblepiesigns'
+Pinterest: 'chann89'
+Etsy: 'humblepiesigns'
+Email: 'humblepiesigns@gmail.com'
+SMS: '301-536-1049'
 
-social-links-order: [etsy, instagram, sms, pinterest, facebook, email]
+social-links-order: [Etsy, Instagram, SMS, Pinterest, Facebook, Email]
 
 # Advanced settings
 plugins:
