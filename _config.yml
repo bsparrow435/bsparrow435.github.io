@@ -27,26 +27,26 @@ plugins:
   - jekyll-seo-tag
 
 social-links:
-  - name: facebook
+  - name: Facebook
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
 
-  - name: instagram
+  - name: Instagram
     url-pattern: instagram.com/__USERNAME__
 
-  - name: pinterest
+  - name: Pinterest
     url-pattern: pinterest.com/__USERNAME__
     icon-class: fab fa-2x fa-pinterest-p
     
-  - name: etsy
+  - name: Etsy
     url-pattern: __USERNAME__.etsy.com
   
-  - name: sms
+  - name: SMS
     url-scheme: sms:
     url-pattern: __USERNAME__?body=Hi%20Courtney!%20Your%20signs%20look%20amazing!
     icon-class: fas fa-2x fa-sms
 
-  - name: email
+  - name: Email
     url-scheme: mailto:
     url-pattern: __USERNAME__
     icon-class: far fa-2x fa-envelope-open
