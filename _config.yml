@@ -19,7 +19,7 @@ etsy: 'humblepiesigns'
 email: 'humblepiesigns@gmail.com'
 sms: '301-536-1049'
 
-social-links-order: [etsy, instagram, phone, pintrest, facebook, email]
+social-links-order: [etsy, instagram, sms, pintrest, facebook, email]
 
 # Advanced settings
 plugins:
