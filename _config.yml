@@ -19,7 +19,7 @@ etsy: 'humblepiesigns'
 email: 'humblepiesigns@gmail.com'
 sms: '301-536-1049'
 
-social-links-order: [etsy, instagram, sms, pintrest, facebook, email]
+social-links-order: [etsy, instagram, sms, pinterest, facebook, email]
 
 # Advanced settings
 plugins:
@@ -44,7 +44,7 @@ social-links:
   - name: sms
     url-scheme: 'sms:'
     url-pattern: '__USERNAME__?body=Hi%20Courtney!%20Humble%20Pie%20Signs%20look%20amazing%20'
-    icon-class: fab fa-2x fa-sms
+    icon-class: fas fa-2x fa-sms
 
   - name: email
     url-scheme: 'mailto:'
