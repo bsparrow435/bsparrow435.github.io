@@ -36,13 +36,15 @@ social-links:
 
   - name: pinterest
     url-pattern: pinterest.com/__USERNAME__
+    icon-class: fab fa-pinterest-p
     
   - name: etsy
     url-pattern: __USERNAME__.etsy.com
   
   - name: sms
     url-scheme: 'sms:'
-    url-pattern: '__USERNAME__?body=Humble%20Pie%Signs%20look%20amazing%20'
+    url-pattern: '__USERNAME__?body=Hi%20Courtney!%20Humble%20Pie%20Signs%20look%20amazing%20'
+    icon-class: fas fa-sms
 
   - name: email
     url-scheme: 'mailto:'
